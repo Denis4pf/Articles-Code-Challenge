@@ -75,7 +75,7 @@ Some of the methods listed are provided to you in the starter code. You should c
   - Returns an array of all Article instances
 
 ### Object Relationship Methods
-
+    
 #### Article
 
 - `Article#author`
